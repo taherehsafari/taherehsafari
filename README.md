@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taherehsafari&label=Profile%20views&color=ffaaff&style=plastic" alt="taherehsafari" /> </p>
 
-- 🔭 I’m currently working on **Html and Css**
+- 🔭 I’m currently working on **Java Script**
 
-- 🌱 I’m currently learning **Django,Html,Css**
+- 🌱 I’m currently learning **Java Script**
 
-- 📫 How to reach me **tahereh.safari80@gmail.com**
+- 📫 How to reach me **taherehsafari80@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
